@@ -1,3 +1,5 @@
+### !!!! This repo is cloned from [BMuschko's GitHub Repo](https://github.com/bmuschko/cka-crash-course) !!!!
+
 # Certified Kubernetes Administrator (CKA) Crash Course
 
 The ability to manage, troubleshoot and monitor a Kubernetes cluster is in high demand. In response, the Cloud Native Computing Foundation (CNCF) developed the [Certified Kubernetes Administrator (CKA) certification](https://www.cncf.io/certification/cka/) to establish a administrator's credibility and value in the job market to confidently work in a Kubernetes environment. The exam is different from the typical multi-choice format of other certifications. It’s completely performance-based and requires deep knowledge of the tasks at hand under immense time pressure. Are you ready to pass the test on the first go?
